@@ -1,2 +1,1 @@
-# BlenderAlchemy-plugin
-Blender plugin implementation for BlenderAlchemy
+# Check back -- coming soon!
